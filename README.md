@@ -1,5 +1,6 @@
 # SE334.P22---Cinestream
-Đồ án SE334.P22 của nhóm chủ đề số 3: 23520582-Võ Phi Hùng, 21521657-Trần Khiết Tường
+Đồ án SE334.P22 của nhóm chủ đề số 3: 23520582-Võ Phi Hùng 
+                                      21521657-Trần Khiết Tường
 # CINESTREAM - Ứng dụng đặt vé xem phim
 *Hệ thống đặt vé xem phim đa nền tảng*
 
@@ -92,14 +93,14 @@ python run.py
 
 ✅ Nếu thành công, bạn sẽ thấy:
 ```bash
-Đang kiểm tra xem bảng cơ sở dữ liệu có tồn tại không...
-Bảng cơ sở dữ liệu đã được tạo thành công.
-* Đang phục vụ ứng dụng Flask 'app'
-* Chế độ gỡ lỗi: bật
-* Đang chạy trên http://127.0.0.1:5000
-* Đang chạy trên http://192.168.1.8:5000
-Nhấn CTRL+C để thoát
-* Trình gỡ lỗi đang hoạt động!
+Checking if database tables exist...
+Database tables created successfully.
+ * Serving Flask app 'app'
+ * Debug mode: on
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.8:5000
+Press CTRL+C to quit
+ * Debugger is active!
 ```
 
 📱 Thiết lập giao diện người dùng (Android)
